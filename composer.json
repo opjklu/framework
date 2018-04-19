@@ -4,7 +4,6 @@
 	"type" : "opjklu-framework",
 	"keywords" : [
 		"framework",
-		"thinkphp",
 		"ORM"
 	],
 	"homepage" : "https://github.com/opjklu/framework",
