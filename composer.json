@@ -1,7 +1,7 @@
 {
 	"name" : "opjklu/framework",
 	"description" : "the new opjklu framework",
-	"type" : "opjklu-framework",
+	"type" : "product",
 	"keywords" : [
 		"framework",
 		"ORM"
