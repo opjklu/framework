@@ -1,0 +1,20 @@
+{
+	"name" : "wq/framework",
+	"description" : "the new wq framework",
+	"type" : "wq-framework",
+	"keywords" : [
+		"framework",
+		"thinkphp",
+		"ORM"
+	],
+	"homepage" : "https://github.com/opjklu/framework",
+	"license" : "Apache-2.0",
+	"authors" : [{
+			"name" : "opjklu",
+			"email" : "opjklu@126.com"
+		}
+	],
+	"require" : {
+		"php" : ">=5.5.0"
+	}
+}
