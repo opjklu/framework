@@ -1,7 +1,7 @@
 {
-	"name" : "wq/framework",
-	"description" : "the new wq framework",
-	"type" : "wq-framework",
+	"name" : "opjklu/framework",
+	"description" : "the new opjklu framework",
+	"type" : "opjklu-framework",
 	"keywords" : [
 		"framework",
 		"thinkphp",
