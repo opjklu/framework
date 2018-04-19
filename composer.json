@@ -1,11 +1,11 @@
-{
+﻿{
 	"name" : "opjklu/framework",
 	"description" : "the new opjklu framework",
 	"type" : "opjklu-framework",
 	"keywords" : [
 		"framework",
-		"thinkphp",
-		"ORM"
+
+"ORM"
 	],
 	"homepage" : "https://github.com/opjklu/framework",
 	"license" : "Apache-2.0",
